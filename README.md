@@ -22,9 +22,11 @@ gcc -o sish main.c
 
 ## Usage
 After launching sish, you'll be presented with a prompt (sish> ). You can start typing commands just like any other shell:
-### sish> ls
-### sish> cd ../
-### sish> history
+```bash
+sish> ls
+sish> cd ../
+sish> history
+```
 
 ## Built-in Commands
 cd [DIRECTORY]: Change to the specified directory. If no directory is specified, changes to the home directory.
