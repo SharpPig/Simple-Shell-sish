@@ -18,8 +18,6 @@ git clone https://github.com/[YOUR_GITHUB_USERNAME]/Simple-Shell.git
 cd Simple-Shell
 gcc -o sish main.c
 ./sish
-
-
 ```
 
 ## Usage
